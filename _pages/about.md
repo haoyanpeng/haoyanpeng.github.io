@@ -17,8 +17,11 @@ Educational background
 ======
 
 2023.12-present  The University of British Columbia Visiting PhD student
+
 2020.09-present  Northeastern University  PhD  Mechanical Engineering
+
 2018.09–2020.07  Northeastern University  Master  Mechanical Engineering
+
 2014.09–2018.07  Tiangong University  Bachelor  Mechanical Engineering
 
 Getting started
