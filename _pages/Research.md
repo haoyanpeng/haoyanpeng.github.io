@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CVV"
-permalink: /cvv/
+title: "Research"
+permalink: /Research/
 author_profile: true
 redirect_from:
   - /resume
