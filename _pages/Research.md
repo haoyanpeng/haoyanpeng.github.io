@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Journal Papers
-======
+
 * Hao Y, Zhu L, Qin S, et al. On-machine inspection and compensation for thin-walled parts with sculptured surface considering cutting vibration and probe posture, International Journal of Extreme Manufacturing, 2024.
 [Download Paper](https://iopscience.iop.org/article/10.1088/2631-7990/ad6de3/meta)
 * Hao Y, Zhu L, Wang J, et al. Ball-end tool wear monitoring and multi-step forecasting with multi-modal information under variable cutting conditions. Journal of Manufacturing Systems, 2024, 76: 234-258.
