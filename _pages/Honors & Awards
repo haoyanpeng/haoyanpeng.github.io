@@ -1,1 +1,15 @@
 
+---
+layout: archive
+title: "Honors & Awards"
+permalink: /Honors & Awards/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+## Journal Papers
+
+* Hao Y, Zhu L, Qin S, et al. On-machine inspection and compensation for thin-
