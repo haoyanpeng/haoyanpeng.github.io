@@ -18,7 +18,7 @@ Educational background
 
 2023.12-present,  The University of British Columbia, Visiting Ph.D. student.
 
-2020.09-present,  Northeastern University,  PhD,  Mechanical Engineering.
+2020.09-present,  Northeastern University,  Ph.D.,  Mechanical Engineering.
 
 2018.09–2020.07,  Northeastern University,  Master,  Mechanical Engineering.
 
