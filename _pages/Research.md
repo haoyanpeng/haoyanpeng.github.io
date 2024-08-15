@@ -9,56 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Journal Papers
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Hao Y, Zhu L, Qin S, et al. On-machine inspection and compensation for thin-walled parts with sculptured surface considering cutting vibration and probe posture, International Journal of Extreme Manufacturing, 2024.
+* Hao Y, Zhu L, Wang J, et al. Ball-end tool wear monitoring and multi-step forecasting with multi-modal information under variable cutting conditions. Journal of Manufacturing Systems, 2024, 76: 234-258.
+* Zhu L, Hao Y, Qin S, et al. On-machine measurement and compensation of thin-walled surface. International Journal of Mechanical Sciences, 2024, 271: 109308.
+* Hao Y, Zhu L, Yan B, et al. Milling chatter detection with WPD and power entropy for Ti-6Al-4V thin-walled parts based on multi-source signals fusion. Mechanical Systems and Signal Processing, 2022, 177: 109225.
+* Hao Y, Zhu L, Yan B, et al. Stiffness design and multi-objective optimization of machine tool structure based on biological inspiration. Journal of Vibration and Control, 2023, 29(11-12): 2774-2788.
+* Qin S, Hao Y, Zhu L, et al. CWE identification and cutting force prediction in ball-end milling process. International Journal of Mechanical Sciences, 2023, 239: 107863.
+* Yan B, Hao Y, Zhu L, et al. Towards high milling accuracy of turbine blades: A review. Mechanical Systems and Signal Processing, 2022, 170: 108727.
+* Qin S, Zhu L, Hao Y, et al. Theoretical and experimental investigations of surface generation induced by ultrasonic assisted grinding. Tribology International, 2023, 179: 108120.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
