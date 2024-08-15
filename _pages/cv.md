@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "CVV"
+permalink: /cvv/
 author_profile: true
 redirect_from:
   - /resume
