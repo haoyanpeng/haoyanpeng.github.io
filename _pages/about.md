@@ -11,14 +11,14 @@ Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automatio
 
 The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC, Supervisor: Xiaoliang Jin, [Advanced Manufacturing Processes Lab](https://amp.mech.ubc.ca/).
 
-Northeastern University, Shenyang, China, PhD Candidate, Supervisor: Lida Zhu, [Digital Design and Manufacturing Lab](http://faculty.neu.edu.cn/zhulida/).
+Northeastern University, Shenyang, China, Ph.D. Candidate, Supervisor: Lida Zhu, [Digital Design and Manufacturing Lab](http://faculty.neu.edu.cn/zhulida/).
 
 Educational background
 ======
 
 2023.12-present,  The University of British Columbia, Visiting Ph.D. student.
 
-2020.09-present,  Northeastern University,  Ph.D.,  Mechanical Engineering.
+2020.09-present,  Northeastern University,  Ph.D. Candidate,  Mechanical Engineering.
 
 2018.09–2020.07,  Northeastern University,  Master,  Mechanical Engineering.
 
