@@ -24,7 +24,7 @@ Educational background
 
 2014.09–2018.07,  Tiangong University,  Bachelor,  Mechanical Engineering.
 
-Getting started
+Research interest
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
