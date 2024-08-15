@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Journal Papers
+## Journal Papers
 ======
 * Hao Y, Zhu L, Qin S, et al. On-machine inspection and compensation for thin-walled parts with sculptured surface considering cutting vibration and probe posture, International Journal of Extreme Manufacturing, 2024.
 [Download Paper](https://iopscience.iop.org/article/10.1088/2631-7990/ad6de3/meta)
