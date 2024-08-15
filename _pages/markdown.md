@@ -17,5 +17,5 @@ redirect_from:
 
 ## Contact Us
 * [Advanced Manufacturing Processes Lab](https://amp.mech.ubc.ca/).
-* 
+* [Digital Design and Manufacturing Lab](http://faculty.neu.edu.cn/zhulida/).
 
