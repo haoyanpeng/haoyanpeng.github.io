@@ -31,7 +31,6 @@ redirect_from:
 
 [ResearchGate](https://www.researchgate.net/profile/Yanpeng-Hao-2/research)
 
-
 ## Conference
 
 
