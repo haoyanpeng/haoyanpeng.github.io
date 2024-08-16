@@ -9,7 +9,7 @@ redirect_from:
 
 Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automation, IEEE Student Member, Ordinary Member of Chinese Mechanical Engineering Society, Student Member of the Chinese Vibration Engineering Society.
 
-The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC, Supervisor: Xiaoliang Jin, [Advanced Manufacturing Processes Lab](https://amp.mech.ubc.ca/).
+The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC.
 
 Northeastern University, Shenyang, China, Ph.D. Candidate, Supervisor: Lida Zhu, [Digital Design and Manufacturing Lab](http://faculty.neu.edu.cn/zhulida/).
 
@@ -34,6 +34,6 @@ Research interest
 
 News
 ------
-[2023/12-present] The University of British Columbia, Vancouver, Canada, VIRS, CSC, Supervisor: Xiaoliang Jin, [Advanced Manufacturing Processes Lab](https://amp.mech.ubc.ca/).
+[2023/12-present] The University of British Columbia, Vancouver, Canada, VIRS, CSC.
 
 ![Editing a markdown file for a talk](/images/UBCNEU.png)
