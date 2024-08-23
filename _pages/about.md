@@ -9,6 +9,8 @@ redirect_from:
 
 Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automation, IEEE Student Member, Ordinary Member of Chinese Mechanical Engineering Society, Student Member of the Chinese Vibration Engineering Society.
 
+Expert Systems with Applications (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
+
 The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC.
 
 Northeastern University, Shenyang, China, Ph.D. Candidate, Supervisor: Lida Zhu, [Digital Design and Manufacturing Lab](http://faculty.neu.edu.cn/zhulida/).
