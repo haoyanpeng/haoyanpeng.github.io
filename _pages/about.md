@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automation, IEEE Student Member, Ordinary Member of Chinese Mechanical Engineering Society, Student Member of the Chinese Vibration Engineering Society.
+Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automation, IEEE Student Member, Ordinary Member of Chinese Mechanical Engineering Society, Student Member of Chinese Vibration Engineering Society.
 
 Expert Systems with Applications (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
 
