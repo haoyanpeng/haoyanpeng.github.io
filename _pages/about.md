@@ -10,7 +10,7 @@ redirect_from:
 Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automation, IEEE Student Member, Ordinary Member of Chinese Mechanical Engineering Society, Student Member of Chinese Vibration Engineering Society.
 
 Expert Systems with Applications (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
----
+***
 Journal of Manufacturing Processes (SCI Q1 TOP 中科院1区 Impact factor: 6.1)---Reviewer
 
 The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC.
