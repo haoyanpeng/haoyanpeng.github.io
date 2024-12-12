@@ -27,6 +27,8 @@ redirect_from:
 [Download Paper](https://www.sciencedirect.com/science/article/pii/S0888327021010451)
 * Qin S, Zhu L, Hao Y, et al. Theoretical and experimental investigations of surface generation induced by ultrasonic assisted grinding. Tribology International, 2023, 179: 108120.
 [Download Paper](https://www.sciencedirect.com/science/article/pii/S0301679X22006910)
+* Zhu L, Qin S, Hao Y, et al. Knowledge-based intelligent ensemble monitoring method of grit wear in ultrasonic assisted grinding. Advanced Engineering Informatics, 2024, 64: 103043.
+[Download Paper](https://www.sciencedirect.com/science/article/pii/S1474034624006943)
 
 
 [ResearchGate](https://www.researchgate.net/profile/Yanpeng-Hao-2/research)
