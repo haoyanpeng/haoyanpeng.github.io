@@ -11,6 +11,8 @@ Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automatio
 
 Information Fusion (SCI Q1 TOP 中科院1区 Impact factor: 14.7)---Reviewer
 
+Mechanical Systems and Signal Processing (SCI Q1 TOP 中科院1区 Impact factor: 7.9)---Reviewer
+
 Expert Systems with Applications (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
 
 Journal of Manufacturing Processes (SCI Q1 TOP 中科院1区 Impact factor: 6.1)---Reviewer
