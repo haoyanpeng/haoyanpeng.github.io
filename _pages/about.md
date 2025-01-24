@@ -28,7 +28,7 @@ Northeastern University, Shenyang, China, Ph.D. Candidate, Supervisor: Lida Zhu,
 Educational background
 ======
 
-2023.12-present,  The University of British Columbia, Visiting Ph.D. student.
+2023.12-2025.02,  The University of British Columbia, Visiting Ph.D. student.
 
 2020.09-present,  Northeastern University,  Ph.D. Candidate,  Mechanical Engineering.
 
@@ -46,6 +46,6 @@ Research interest
 
 News
 ------
-[2023/12-present] The University of British Columbia, Vancouver, Canada, VIRS, CSC.
+[2023/12-2025/02] The University of British Columbia, Vancouver, Canada, VIRS, CSC.
 
 ![Editing a markdown file for a talk](/images/UBCNEU.png)
