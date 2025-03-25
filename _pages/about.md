@@ -17,7 +17,7 @@ Expert Systems with Applications (SCI Q1 TOP 中科院1区 Impact factor: 7.5)--
 
 Journal of Manufacturing Processes (SCI Q1 TOP 中科院1区 Impact factor: 6.1)---Reviewer
 
-Engineering Applications of Artificial Intelligence (SCI Q1 TOP 中科院2区 Impact factor: 7.5)---Reviewer
+Engineering Applications of Artificial Intelligence (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
 
 Engineering Research Express (Impact factor: 1.5)---Reviewer
 
