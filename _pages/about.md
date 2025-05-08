@@ -28,7 +28,7 @@ Engineering Applications of Artificial Intelligence (SCI Q1 TOP 中科院1区 Im
 
 Engineering Research Express (Impact factor: 1.5)---Reviewer
 
-The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC. (https://amp.mech.ubc.ca/).
+The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC. [Advanced Manufacturing Processes Laboratory](https://amp.mech.ubc.ca/).
 
 Northeastern University, Shenyang, China, Ph.D. Candidate, Supervisor: Lida Zhu, [Digital Design and Manufacturing Lab](http://faculty.neu.edu.cn/zhulida/).
 
