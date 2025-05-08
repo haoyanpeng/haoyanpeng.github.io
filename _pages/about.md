@@ -11,18 +11,18 @@ Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automatio
 
 Academic affiliation
 ======
-Youth Editorial Board Member of Journal of Advances in Engineering and Technology (JAET)
+. Youth Editorial Board Member of Journal of Advances in Engineering and Technology (JAET)
 
 
-Information Fusion (SCI Q1 TOP 中科院1区 Impact factor: 14.7)---Reviewer
-Mechanical Systems and Signal Processing (SCI Q1 TOP 中科院1区 Impact factor: 7.9)---Reviewer
-Expert Systems with Applications (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
-Journal of Manufacturing Processes (SCI Q1 TOP 中科院1区 Impact factor: 6.1)---Reviewer
-Engineering Applications of Artificial Intelligence (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
-Engineering Research Express (Impact factor: 1.5)---Reviewer
+. Information Fusion (SCI Q1 TOP 中科院1区 Impact factor: 14.7)---Reviewer
+. Mechanical Systems and Signal Processing (SCI Q1 TOP 中科院1区 Impact factor: 7.9)---Reviewer
+. Expert Systems with Applications (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
+. Journal of Manufacturing Processes (SCI Q1 TOP 中科院1区 Impact factor: 6.1)---Reviewer
+. Engineering Applications of Artificial Intelligence (SCI Q1 TOP 中科院1区 Impact factor: 7.5)---Reviewer
+. Engineering Research Express (Impact factor: 1.5)---Reviewer
 
-The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC.
-Northeastern University, Shenyang, China, Ph.D. Candidate, Supervisor: Lida Zhu, [Digital Design and Manufacturing Lab](http://faculty.neu.edu.cn/zhulida/).
+. The University of British Columbia, Vancouver, Canada, Visiting Ph.D. student, CSC.
+. Northeastern University, Shenyang, China, Ph.D. Candidate, Supervisor: Lida Zhu, [Digital Design and Manufacturing Lab](http://faculty.neu.edu.cn/zhulida/).
 
 Educational background
 ======
