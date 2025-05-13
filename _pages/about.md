@@ -12,6 +12,7 @@ Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automatio
 Academic affiliation
 ======
 Youth Editorial Board Member of [Journal of Advances in Engineering and Technology (JAET)](https://ojs.apspublisher.com/index.php/jaet/about/editorialTeam)
+
 ![Editing a markdown file for a talk](/images/JAETjournal.png)
 
 
