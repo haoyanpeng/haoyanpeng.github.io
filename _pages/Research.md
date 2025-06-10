@@ -34,6 +34,7 @@ redirect_from:
 [ResearchGate](https://www.researchgate.net/profile/Yanpeng-Hao-2/research)
 
 ## Conference
+[1] 2025年可持续发展目标跨学科研讨会（2025ISSDGs）（新西兰奥克兰）--大会学术委员会成员/2025.09.26
 
 
 ## Patents
