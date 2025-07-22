@@ -17,6 +17,7 @@ Youth Editorial Board Member of [Journal of Advances in Engineering and Technolo
 
 ![Editing a markdown file for a talk](/images/JAETjournal.png)
 
+Measurement (SCI Q1 中科院2区 Impact factor: 5.6)---Reviewer
 
 Knowledge-Based Systems (SCI Q1 TOP 中科院1区 Impact factor: 7.6)---Reviewer
 
