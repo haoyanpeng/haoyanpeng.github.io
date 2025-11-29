@@ -31,7 +31,7 @@ redirect_from:
 [Download Paper](https://www.sciencedirect.com/science/article/pii/S0301679X22006910)
 * Zhu L, Qin S, Hao Y, et al. Knowledge-based intelligent ensemble monitoring method of grit wear in ultrasonic assisted grinding. Advanced Engineering Informatics, 2024, 64: 103043.
 [Download Paper](https://www.sciencedirect.com/science/article/pii/S1474034624006943)
-* Huang Y, Zhu L, Hao Y, et al. Error compensation for thin-walled blade machining based on analytical modeling and ensemble machine learning. Thin-Walled Structures, 2025, 114285.
+* Huang Y, Zhu L, Hao Y, et al. Error compensation for thin-walled blade machining based on analytical modeling and ensemble machine learning, Thin-Walled Structures, 2025: 114285.
 [Download Paper](https://www.sciencedirect.com/science/article/pii/S0263823125013722)
 
 
