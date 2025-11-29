@@ -11,7 +11,7 @@ redirect_from:
 
 ## Journal Papers
 
-* Hao Y, Zhu L, Qin S, et al. Hybrid data and vision-driven intelligent chatter monitoring and multi-condition diagnosis for advanced five-axis milling system, Journal of Manufacturing Processes, 156: 284-313.
+* Hao Y, Zhu L, Qin S, et al. Hybrid data and vision-driven intelligent chatter monitoring and multi-condition diagnosis for advanced five-axis milling system, Journal of Manufacturing Processes, 2025, 156: 284-313.
 [Download Paper](https://www.sciencedirect.com/science/article/pii/S1526612525011971)
 * Hao Y, Zhu L, Qin S, et al. On-machine inspection and compensation for thin-walled parts with sculptured surface considering cutting vibration and probe posture, International Journal of Extreme Manufacturing, 2024.
 [Download Paper](https://iopscience.iop.org/article/10.1088/2631-7990/ad6de3/meta)
