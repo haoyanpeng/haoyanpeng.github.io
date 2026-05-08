@@ -33,6 +33,7 @@ redirect_from:
 [Download Paper](https://www.sciencedirect.com/science/article/pii/S1474034624006943)
 * Huang Y, Zhu L, Hao Y, et al. Error compensation for thin-walled blade machining based on analytical modeling and ensemble machine learning, Thin-Walled Structures, 2025: 114285.
 [Download Paper](https://www.sciencedirect.com/science/article/pii/S0263823125013722)
+* Qin S, Zhu L, Hao Y, et al. A fusion prediction model of tool wear based on physical information and machine learning in five-axis milling TC4 titanium alloy. Robotics and Computer-Integrated Manufacturing, 2026, 101: 103303.[Download Paper](https://www.sciencedirect.com/science/article/pii/S0736584526000827)
 
 
 [ResearchGate](https://www.researchgate.net/profile/Yanpeng-Hao-2/research)
