@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yanpeng Hao, Ph.D. Candidate, Department of Mechanical Engineering and Automation, IEEE Student Member, Ordinary Member of Chinese Mechanical Engineering Society, Student Member of Chinese Vibration Engineering Society.
-
-Member of the Science and Technology Association of Northeastern University
+Yanpeng Hao, Ph.D., School of Control Engineering, Ordinary Member of Chinese Mechanical Engineering Society, Student Member of Chinese Vibration Engineering Society.
 
 Academic affiliation
 ======
